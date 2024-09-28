@@ -248,13 +248,6 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality readme with description and a link to a walkthrough video.
 
-## Review
+Video link: https://app.screencastify.com/v2/manage/videos/RkVqDhAA6p4gil3mjBft 
 
-You are required to submit BOTH of the following for review:
 
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
